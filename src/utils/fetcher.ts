@@ -3,7 +3,7 @@
  */
 function getRegistryUrl(path: string = ""): string {
   const baseUrl =
-    import.meta.env.VITE_REGISTRY_URL || "https://native-shadcn-ui.netlify.app/registry";
+    import.meta.env.VITE_REGISTRY_URL || "https://native-shadcn-ui.vercel.app/registry";
 
   // Return full URL if path is provided
   return path ? `${baseUrl}/${path}` : baseUrl;

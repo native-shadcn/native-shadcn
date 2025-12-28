@@ -219,7 +219,7 @@ function buildRegistry() {
   console.log(`\n📁 Output: ${OUTPUT_DIR}`);
   console.log(`\n🌐 Serve with: npm run dev`);
   console.log(`   Local: http://localhost:5173/registry/button.json`);
-  console.log(`   Production: https://native-shadcn-ui.netlify.app/registry/button.json`);
+  console.log(`   Production: https://native-shadcn-ui.vercel.app/registry/button.json`);
 }
 
 buildRegistry();

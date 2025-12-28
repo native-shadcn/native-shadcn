@@ -19,17 +19,17 @@ describe('registry', () => {
   describe('getRegistryUrl', () => {
     it('should return production registry URL', () => {
       const url = getRegistryUrl();
-      expect(url).toBe('https://native-shadcn-ui.netlify.app/registry');
+      expect(url).toBe('https://native-shadcn-ui.vercel.app/registry');
     });
 
     it('should append path when provided', () => {
       const url = getRegistryUrl('button.json');
-      expect(url).toBe('https://native-shadcn-ui.netlify.app/registry/button.json');
+      expect(url).toBe('https://native-shadcn-ui.vercel.app/registry/button.json');
     });
 
     it('should append index.json path', () => {
       const url = getRegistryUrl('index.json');
-      expect(url).toBe('https://native-shadcn-ui.netlify.app/registry/index.json');
+      expect(url).toBe('https://native-shadcn-ui.vercel.app/registry/index.json');
     });
   });
 

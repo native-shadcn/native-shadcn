@@ -14,7 +14,7 @@ import {
 const registryCache = new Map<string, Promise<any>>();
 
 // Registry base URL - can be overridden with REGISTRY_URL env var
-const REGISTRY_URL = process.env.REGISTRY_URL ?? "https://native-shadcn-ui.netlify.app/registry";
+const REGISTRY_URL = process.env.REGISTRY_URL ?? "https://native-shadcn-ui.vercel.app/registry";
 
 /**
  * Get registry URL with optional path
