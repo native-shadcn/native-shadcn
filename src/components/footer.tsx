@@ -7,7 +7,7 @@ export function Footer() {
           <span className="font-medium text-foreground">Native ShadCN</span>
           . The source code is available on{' '}
           <a
-            href="https://github.com/native-shadcn/native-shadcn"
+            href="https://github.com/nativeshadcn/native-shadcn"
             target="_blank"
             rel="noopener noreferrer"
             className="font-medium underline underline-offset-4 hover:text-foreground transition-colors"

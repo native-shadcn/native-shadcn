@@ -23,7 +23,7 @@ export function Header() {
               Components
             </Link>
             <a
-              href="https://github.com/native-shadcn/native-shadcn"
+              href="https://github.com/nativeshadcn/native-shadcn"
               target="_blank"
               rel="noopener noreferrer"
               className="transition-colors hover:text-foreground/80 text-foreground/60"
@@ -35,7 +35,7 @@ export function Header() {
         <div className="flex flex-1 items-center justify-end space-x-2">
           <nav className="flex items-center space-x-2">
             <a
-              href="https://github.com/native-shadcn/native-shadcn"
+              href="https://github.com/nativeshadcn/native-shadcn"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex h-9 w-9 items-center justify-center rounded-md hover:bg-accent hover:text-accent-foreground"

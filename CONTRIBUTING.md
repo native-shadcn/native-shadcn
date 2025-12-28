@@ -149,7 +149,7 @@ Before submitting:
 
 \`\`\`bash
 # Clone the repository
-git clone https://github.com/native-shadcn/native-shadcn
+git clone https://github.com/nativeshadcn/native-shadcn
 cd native-shadcn
 
 # Install dependencies

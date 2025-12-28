@@ -1,6 +1,6 @@
 {
   "name": "native-shadcn-ui",
-  "version": "0.1.0",
+  "version": "0.1.4-beta",
   "description": "CLI for adding Native ShadCN components to your React Native project",
   "main": "dist/index.js",
   "bin": {
@@ -35,13 +35,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/native-shadcn/native-shadcn.git",
+    "url": "git+https://github.com/nativeshadcn/native-shadcn.git",
     "directory": "packages/cli"
   },
   "bugs": {
-    "url": "https://github.com/native-shadcn/native-shadcn/issues"
+    "url": "https://github.com/nativeshadcn/native-shadcn/issues"
   },
-  "homepage": "https://github.com/native-shadcn/native-shadcn#readme",
+  "homepage": "https://github.com/nativeshadcn/native-shadcn#readme",
   "engines": {
     "node": ">=16.0.0"
   },

@@ -451,9 +451,9 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 ## Support
 
-- 📖 [Documentation](https://github.com/native-shadcn/native-shadcn#readme)
-- 💬 [GitHub Discussions](https://github.com/native-shadcn/native-shadcn/discussions)
-- 🐛 [Issue Tracker](https://github.com/native-shadcn/native-shadcn/issues)
+- 📖 [Documentation](https://github.com/nativeshadcn/native-shadcn#readme)
+- 💬 [GitHub Discussions](https://github.com/nativeshadcn/native-shadcn/discussions)
+- 🐛 [Issue Tracker](https://github.com/nativeshadcn/native-shadcn/issues)
 
 ## Roadmap
 

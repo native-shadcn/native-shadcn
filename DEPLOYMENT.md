@@ -48,10 +48,10 @@ Update `packages/cli/package.json`:
   "homepage": "https://native-shadcn.vercel.app/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/native-shadcn/native-shadcn.git"
+    "url": "git+https://github.com/nativeshadcn/native-shadcn.git"
   },
   "bugs": {
-    "url": "https://github.com/native-shadcn/native-shadcn/issues"
+    "url": "https://github.com/nativeshadcn/native-shadcn/issues"
   },
   "keywords": [
     "react-native",
@@ -221,7 +221,7 @@ git add .
 git commit -m "Initial commit"
 
 # Create repo on GitHub, then:
-git remote add origin https://github.com/native-shadcn/native-shadcn.git
+git remote add origin https://github.com/nativeshadcn/native-shadcn.git
 git branch -M main
 git push -u origin main
 ```
@@ -386,7 +386,7 @@ After deploying, update your `packages/cli/package.json`:
   "homepage": "https://native-shadcn.vercel.app",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/native-shadcn/native-shadcn.git"
+    "url": "git+https://github.com/nativeshadcn/native-shadcn.git"
   }
 }
 ```
@@ -404,7 +404,7 @@ Update `src/components/footer.tsx`:
 
 ```tsx
 <a
-  href="https://github.com/native-shadcn/native-shadcn"
+  href="https://github.com/nativeshadcn/native-shadcn"
   target="_blank"
   rel="noopener noreferrer"
 >
@@ -421,7 +421,7 @@ Update root `README.md` with your actual links:
 
 - **Documentation:** https://native-shadcn.vercel.app
 - **npm Package:** https://www.npmjs.com/package/native-shadcn-cli
-- **GitHub:** https://github.com/native-shadcn/native-shadcn
+- **GitHub:** https://github.com/nativeshadcn/native-shadcn
 ```
 
 ---
@@ -552,7 +552,7 @@ npx native-shadcn-cli add button card input
 # https://native-shadcn.vercel.app
 
 # View source
-# https://github.com/native-shadcn/native-shadcn
+# https://github.com/nativeshadcn/native-shadcn
 
 # Check npm package
 # https://npmjs.com/package/native-shadcn-cli
@@ -617,6 +617,6 @@ Your CLI and website are now live! 🎉
 
 - Anyone can use: `npx native-shadcn-cli`
 - Documentation: `https://native-shadcn.vercel.app`
-- Open source: `https://github.com/native-shadcn/native-shadcn`
+- Open source: `https://github.com/nativeshadcn/native-shadcn`
 
 Share it with the React Native community!
